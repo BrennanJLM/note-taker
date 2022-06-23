@@ -1,4 +1,4 @@
-## . Express.js Challenge: Note Taker (Module 10)
+## . Express.js Challenge: Note Taker (Module 11)
 The purpose of this challenge was to create an html page with information inputed by the user.
 
 ## Installation:
